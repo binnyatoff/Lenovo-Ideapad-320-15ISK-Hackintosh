@@ -27,7 +27,13 @@
 * Нет звука, после сна, если был снят с зарядки
 
 ## Настройки BIOS
-SATA Controller Mode to AHCI, HotKey Mode to Enabled. Security: Intel Platform Trust Technology to Enabled, Intel SGX to Software Controlled, Secure Boot to Disabled. Boot: Boot Mode to UEFI,Fast Boot to Enabled, USB Boot to Enabled. Exit: OS Optimized Defaults to Disabled.
+* SATA Controller Mode to AHCI
+* HotKey Mode to Enabled. 
+* Security: Intel Platform Trust Technology to Enabled, 
+* Intel SGX to Software Controlled, 
+* Secure Boot to Disabled. Boot: Boot Mode to UEFI,
+* Fast Boot to Enabled, USB Boot to Enabled. 
+* Exit: OS Optimized Defaults to Disabled.
 
 ![Screenshot 2.](./Images/Screen.png)
 
